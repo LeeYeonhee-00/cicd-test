@@ -6,7 +6,7 @@ on:
       user_name:
         description: '이름을 입력하세요'
         required: true
-        default: 'GitHub-User'
+        default: 'GitHub-User22'
 
 jobs:
   say-hello:
